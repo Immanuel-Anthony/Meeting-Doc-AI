@@ -224,8 +224,8 @@ def main():
     csv_path = "participants.csv"  
     attachment_path = "MOM.docx"    
     # Sender email credentials
-    sender_email = "immanuelantony2571@gmail.com"
-    sender_password = "tmli vesr bpyq hgkm"  
+    sender_email = "xxxxx@xxxxx.com"
+    sender_password = "xxxx xxxx xxxx xxxx"  
     # Email details
     subject = "Meeting Minutes Document - Final Version"
     body = "Hello,\n\nPlease find the attached document from the meeting.\n\nBest regards,\nImmanuel Anthony"
