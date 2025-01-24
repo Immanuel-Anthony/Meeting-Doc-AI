@@ -10,6 +10,7 @@ pip install requirements.txt
 ```
 
 Make a new file '.env' from '.env.example' and add the required API keys [openAI].
+You also need to edit the sender email and the app password.
 
 ___
 
