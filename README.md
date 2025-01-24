@@ -9,7 +9,7 @@ To run this program on your system, you need to install the required dependencie
 pip install requirements.txt
 ```
 
-Make a new file '.env' from '.env.example' and add the required API keys [openAI].
+Make a new file '.env' from '.env.example' and add the required API keys [openAI].<br>
 You also need to edit the sender email and the app password.
 
 ___
