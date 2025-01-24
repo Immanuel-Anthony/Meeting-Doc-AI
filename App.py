@@ -221,7 +221,7 @@ def main():
         print(f"An error occurred: {e}")
 
     #Email part
-    csv_path = "fake_participants.csv"  
+    csv_path = "participants.csv"  
     attachment_path = "MOM.docx"    
     # Sender email credentials
     sender_email = "immanuelantony2571@gmail.com"
